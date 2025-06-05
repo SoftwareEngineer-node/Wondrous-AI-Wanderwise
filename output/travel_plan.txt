@@ -1,0 +1,35 @@
+WanderWise Travel Plan
+Destination: cairo
+Dates: 10 July - 14 July
+Budget: $500
+Style: Cultural
+
+1. Day 1: Sunny, 30°C
+   - Activity: Giza Pyramids and Sphinx ($25) - Explore the iconic ancient wonders. Camel ride optional, but budget carefully.
+   - Accommodation: Dahab Hostel Cairo ($25) - Known for its social atmosphere and budget-friendly options.
+   - Meals: Falafel sandwich from a street vendor ($3), Kushari from a local eatery ($5), Mango juice ($2).
+   - Transportation: Uber/Careem to Giza ($5), Local bus/microbus within Giza ($2).
+
+2. Day 2: Sunny, 31°C
+   - Activity: Egyptian Museum ($15) - Discover a vast collection of ancient Egyptian artifacts, including treasures from Tutankhamun's tomb.
+   - Accommodation: Dahab Hostel Cairo ($25)
+   - Meals: Ful Medames for breakfast ($3), Shawarma for lunch ($5), Fresh juice ($2).
+   - Transportation: Cairo Metro ($1) - Use it to reach the Egyptian Museum from downtown. Walking to explore nearby areas ($0).
+
+3. Day 3: Sunny, 32°C
+   - Activity: Islamic Cairo Exploration (Free entry to most mosques, small donations appreciated) - Visit the Mosque of Muhammad Ali (Alabaster Mosque) and explore the bustling Khan el-Khalili bazaar. Budget $5 for small purchases at the bazaar.
+   - Accommodation: Dahab Hostel Cairo ($25)
+   - Meals: Ta'ameya (Egyptian falafel) for breakfast ($3), Grilled Kofta sandwich ($5), Water ($1).
+   - Transportation: Cairo Metro ($1), Walking within Islamic Cairo ($0). Uber/Careem if necessary ($3).
+
+4. Day 4: Sunny, 31°C
+   - Activity: Coptic Cairo ($10 combined entry to churches) - Explore the historic churches and synagogues in this area, including the Hanging Church and the Ben Ezra Synagogue.
+   - Accommodation: Dahab Hostel Cairo ($25)
+   - Meals: Egyptian breakfast (Feteer Meshaltet and honey) ($6), Lunch at a local restaurant (Molokhia with rice) ($6), Bottle of water ($1).
+   - Transportation: Cairo Metro ($1), Walking within Coptic Cairo ($0), Uber/Careem if necessary ($3).
+
+5. Day 5: Sunny, 30°C
+   - Activity: Al-Azhar Mosque and University (Free entry, modest dress required) - Visit one of the oldest universities in the world and a significant center of Islamic learning. Explore the surrounding area.
+   - Accommodation: Dahab Hostel Cairo ($25)
+   - Meals: Aish Baladi (Egyptian bread) with cheese and olives ($4), Kebab lunch ($6), Juice ($2).
+   - Transportation: Cairo Metro ($1), Walking in Al-Azhar area ($0), Uber/Careem to airport ($10).
