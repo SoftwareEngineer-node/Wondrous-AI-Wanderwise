@@ -1,4 +1,4 @@
-# Agentic-Ai-Wanderwise 🚀
+# Wondrous-Ai-Wanderwise 🚀
 
 WanderWise is a Flask web app that helps you plan your trip by generating a personalized travel itinerary. Just enter your destination, budget, and trip dates, and get a day-by-day plan with weather forecasts, suggested activities, meals, accommodation, and transportation options. ✈️🌍
 
